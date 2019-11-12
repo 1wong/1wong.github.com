@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: 关于说课
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### 为什么要“说课”
 
-A place to include any other types of information that you'd like to include about yourself.
+说课本来是传统学校中教师们的一种教学活动，大家坐下来研究课程的教法，讨论教学内容，相互学习借鉴演示。通过这种活动可以有效地提高教学质量，增强老师能力，创造更新更好的教法，开拓教育思路。
+但是，随着教育的市场化产业化，在高考指挥棒下，教师们有不少去钻营私利，学校以升学率为终极目标，更多的是研究怎么做题怎么蒙题怎么考试。更有社会培训机构中坑蒙拐骗，鱼龙混杂，有一吹十的乱象。很大一部分人认为有技术就能当好老师讲好课。。。不胜呜呼！
 
 ### Contact me
 
